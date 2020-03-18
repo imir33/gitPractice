@@ -39,5 +39,9 @@ public class Main {
         pc2.adaugaProcesor(c3);
 
         System.out.println(pc2.proceseaza(documente));
+
+        //Same lane as in the newBranch
+        new newestClass = new NewestClass();
+        newestClass.print();
     }
 }
