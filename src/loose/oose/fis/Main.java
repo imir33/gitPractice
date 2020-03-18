@@ -39,5 +39,9 @@ public class Main {
         pc2.adaugaProcesor(c3);
 
         System.out.println(pc2.proceseaza(documente));
+
+        //This is the change in the Main class
+        new newClass = new NewClass();
+        newClass.print();
     }
 }
